@@ -12,6 +12,7 @@ Rules:
 Tech Stack:
 
 Frontend - React.ts and tailwindCSS
+
 Backend - Go and planned implentations in Python for an RL agent
 
 <p align="center">
