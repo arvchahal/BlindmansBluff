@@ -9,7 +9,6 @@ Rules:
  - Typically played with BB and SB and Play starts from the UTG player and goes around in one round of betting
  - If you fold an Ace you have to forfeit half of your stack to the winner of the hand
 
-Tech Stack:
 
 Language: Go
 
