@@ -15,5 +15,5 @@ Frontend - React.ts and tailwindCSS
 Backend - Go and planned implentations in Python for an RL agent
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/user-attachments/assets/a6751f14-62ea-4812-9959-e03a7b8534f6)"/>
+  <img src="https://github.com/user-attachments/assets/a6751f14-62ea-4812-9959-e03a7b8534f6"/>
 </p>
