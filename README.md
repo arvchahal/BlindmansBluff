@@ -13,3 +13,6 @@ Tech Stack:
 
 Frontend - React.ts and tailwindCSS
 Backend - Go and planned implentations in Python for an RL agent
+
+
+![image](https://github.com/user-attachments/assets/37029257-3cf2-444b-8f42-07a72cd2ef28)
